@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|c:\\users\\prest\\source\\repos\\mission10\\mission10\\backend\\webapplication1\\controllers\\bowlingleaguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|solutionrelative:controllers\\bowlingleaguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|c:\\users\\prest\\source\\repos\\mission10\\mission10\\backend\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|c:\\users\\prest\\source\\repos\\mission10\\mission10\\backend\\webapplication1\\models\\ibowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|solutionrelative:models\\ibowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|c:\\users\\prest\\source\\repos\\mission10\\mission10\\backend\\webapplication1\\models\\efbowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|solutionrelative:models\\efbowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|c:\\users\\prest\\source\\repos\\mission10\\mission10\\backend\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BowlingLeagueController.cs",
+              "DocumentMoniker": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Controllers\\BowlingLeagueController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BowlingLeagueController.cs",
+              "ToolTip": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Controllers\\BowlingLeagueController.cs",
+              "RelativeToolTip": "Controllers\\BowlingLeagueController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:04:32.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T16:35:14.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:36:22.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBowlingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Models\\IBowlingRepository.cs",
+              "RelativeDocumentMoniker": "Models\\IBowlingRepository.cs",
+              "ToolTip": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Models\\IBowlingRepository.cs",
+              "RelativeToolTip": "Models\\IBowlingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:34:19.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EFBowlingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Models\\EFBowlingRepository.cs",
+              "RelativeDocumentMoniker": "Models\\EFBowlingRepository.cs",
+              "ToolTip": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Models\\EFBowlingRepository.cs",
+              "RelativeToolTip": "Models\\EFBowlingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:30:51.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
