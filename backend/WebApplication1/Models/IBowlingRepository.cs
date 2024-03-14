@@ -1,7 +1,7 @@
 ﻿namespace WebApplication1.Models
 {
-    public interface IBowlingRepository
+    public interface IBowlerRepository
     {
-        IEnumerable<Bowler> Bowlers { get; }
+        IEnumerable<BowlerTeam> GetBowlerTeams();
     }
 }

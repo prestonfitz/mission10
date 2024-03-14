@@ -1,3 +1,4 @@
+// This is the heading banner
 import logo from '../TotallyALogo.jpg';
 
 function Header(props: any) {

@@ -1,25 +1,26 @@
-﻿using WebApplication1.Models;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
+using WebApplication1.Models;
+using System.Linq;
 
 namespace WebApplication1.Controllers
 {
-    [Route("[controller]")]
     [ApiController]
+    [Route("api/[controller]")]
     public class BowlingLeagueController : ControllerBase
     {
-        private IBowlingRepository _bowlingRepository { get; set; }
-        public BowlingLeagueController(IBowlingRepository temp)
+        private readonly IBowlerRepository _bowlerRepository;
+
+        public BowlingLeagueController(IBowlerRepository bowlerRepository)
         {
-            _bowlingRepository = temp;
+            _bowlerRepository = bowlerRepository;
         }
 
         [HttpGet]
-        public IEnumerable<Bowler> Get()
+        public ActionResult<IEnumerable<BowlerTeam>> GetBowlerTeams()
         {
-            var bowlingData = _bowlingRepository.Bowlers.ToArray();
-
-            return bowlingData;
+            var bowlerTeams = _bowlerRepository.GetBowlerTeams();
+            return Ok(bowlerTeams);
         }
+
     }
 }

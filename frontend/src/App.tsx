@@ -6,6 +6,8 @@ import Description from './components/description';
 // import LeagueData from './LeagueData';
 import BowlerList from './components/bowlerList';
 
+// This has been minimalized and only has the app function
+
 function App() {
   return (
     <div className="App">

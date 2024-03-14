@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|c:\\users\\prest\\source\\repos\\mission10\\mission10\\backend\\webapplication1\\models\\efbowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|solutionrelative:models\\efbowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|c:\\users\\prest\\source\\repos\\mission10\\mission10\\backend\\webapplication1\\controllers\\bowlingleaguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|solutionrelative:controllers\\bowlingleaguecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|c:\\users\\prest\\source\\repos\\mission10\\mission10\\backend\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|c:\\users\\prest\\source\\repos\\mission10\\mission10\\backend\\webapplication1\\models\\bowlerteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|solutionrelative:models\\bowlerteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|c:\\users\\prest\\source\\repos\\mission10\\mission10\\backend\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|c:\\users\\prest\\source\\repos\\mission10\\mission10\\backend\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|c:\\users\\prest\\source\\repos\\mission10\\mission10\\backend\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|c:\\users\\prest\\source\\repos\\mission10\\mission10\\backend\\webapplication1\\models\\ibowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|solutionrelative:models\\ibowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|c:\\users\\prest\\source\\repos\\mission10\\mission10\\backend\\webapplication1\\models\\efbowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|solutionrelative:models\\efbowlingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|c:\\users\\prest\\source\\repos\\mission10\\mission10\\backend\\webapplication1\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|solutionrelative:models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|c:\\users\\prest\\source\\repos\\mission10\\mission10\\backend\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|c:\\users\\prest\\source\\repos\\mission10\\mission10\\backend\\webapplication1\\models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|solutionrelative:models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|c:\\users\\prest\\source\\repos\\mission10\\mission10\\backend\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4159B5C8-D425-448C-A9F6-06703FD5F339}|WebApplication1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +58,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwBUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T23:06:51.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BowlerTeam.cs",
+              "DocumentMoniker": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Models\\BowlerTeam.cs",
+              "RelativeDocumentMoniker": "Models\\BowlerTeam.cs",
+              "ToolTip": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Models\\BowlerTeam.cs",
+              "RelativeToolTip": "Models\\BowlerTeam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:48:51.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Models\\Bowler.cs",
+              "RelativeDocumentMoniker": "Models\\Bowler.cs",
+              "ToolTip": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Models\\Bowler.cs",
+              "RelativeToolTip": "Models\\Bowler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:22:01.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Models\\Team.cs",
+              "ToolTip": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Models\\Team.cs",
+              "RelativeToolTip": "Models\\Team.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T22:13:11.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BowlingLeagueController.cs",
               "DocumentMoniker": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Controllers\\BowlingLeagueController.cs",
               "RelativeDocumentMoniker": "Controllers\\BowlingLeagueController.cs",
               "ToolTip": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Controllers\\BowlingLeagueController.cs",
               "RelativeToolTip": "Controllers\\BowlingLeagueController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAfAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T17:04:32.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -64,40 +136,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T16:36:22.402Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IBowlingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Models\\IBowlingRepository.cs",
-              "RelativeDocumentMoniker": "Models\\IBowlingRepository.cs",
-              "ToolTip": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Models\\IBowlingRepository.cs",
-              "RelativeToolTip": "Models\\IBowlingRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T16:34:19.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "EFBowlingRepository.cs",
               "DocumentMoniker": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Models\\EFBowlingRepository.cs",
               "RelativeDocumentMoniker": "Models\\EFBowlingRepository.cs",
               "ToolTip": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Models\\EFBowlingRepository.cs",
               "RelativeToolTip": "Models\\EFBowlingRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T16:30:51.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-13T23:06:19.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:36:22.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBowlingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Models\\IBowlingRepository.cs",
+              "RelativeDocumentMoniker": "Models\\IBowlingRepository.cs",
+              "ToolTip": "C:\\Users\\prest\\source\\repos\\Mission10\\mission10\\backend\\WebApplication1\\Models\\IBowlingRepository.cs",
+              "RelativeToolTip": "Models\\IBowlingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:34:19.21Z",
               "EditorCaption": ""
             }
           ]
